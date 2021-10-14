@@ -29,6 +29,14 @@
       "required": false
     },
     {
+      "id": "freshdesk_categoryName",
+      "required": false
+    },
+    {
+      "id": "freshdesk_folderName",
+      "required": false
+    },
+    {
       "id": "freshdesk_thumbsUp",
       "required": false
     },
