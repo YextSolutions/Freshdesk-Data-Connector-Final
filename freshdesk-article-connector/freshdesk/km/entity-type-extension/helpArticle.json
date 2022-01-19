@@ -9,14 +9,6 @@
       "required": false
     },
     {
-      "id": "freshdesk_dateCreated",
-      "required": false
-    },
-    {
-      "id": "freshdesk_dateUpdated",
-      "required": false
-    },
-    {
       "id": "freshdesk_folderID",
       "required": false
     },
